@@ -123,3 +123,40 @@ padding: 0 10px;
     display: block;
     transform: translateY(15px);
 }
+
+#services .btn-primary{
+    box-shadow:none;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+
+/*--------about us---------*/
+
+#about-us{
+    background: #f8f9f6;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+}
+
+
+.about-title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 8%;
+}
+
+#about-us ul li{
+    margin: 10px 0;
+}
+
+#about-us ul{
+    margin-left: 20px;
+}
+
+/*-------------testimonials section*/
+#testinmonials{
+    margin: 100px 0;
+}
