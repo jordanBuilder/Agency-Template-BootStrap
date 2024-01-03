@@ -51,3 +51,32 @@ padding: 0 10px;
 .navbar-toggler{
     outline: none !important;
 }
+
+
+/*--------BANNER SECTION*/
+
+#banner{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: white;
+    padding-top: 5%;
+}
+
+.promo-title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+
+.play-btn{
+    width: 45px;
+    margin: 20px;
+}
+#banner a{
+    color:white;
+    text-decoration: none;
+}
+
+.bottom-img{
+
+    width: 100%;
+}
