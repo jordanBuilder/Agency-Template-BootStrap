@@ -199,3 +199,21 @@ padding: 100px 0;
 .social-icons a:hover img{
     transform: translateY(-10px);
 }
+
+/*-------footer section-----------*/
+
+#footer{
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    color: white;
+}
+.footer-img{
+    width: 100%;
+}
+.footer-box{
+    padding: 20px;
+}
+
+.footer-box img{
+    width: 120px;
+    margin-bottom: 20px;
+}
